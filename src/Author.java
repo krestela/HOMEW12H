@@ -33,6 +33,4 @@ public class Author {
     public String toString() {
         return name + " " + secondName;
     }
-    Author a = new Author("Donna", "Tarrt");
-    String s = a.toString();
 }
